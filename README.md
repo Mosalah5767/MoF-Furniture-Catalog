@@ -1,1 +1,1 @@
-# MoF-Furniture-Catalog
+# Mo-Furniture-Catalog
